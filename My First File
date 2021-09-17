@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First Webpage</title>
+    </head>
+    <body>
+        <!-- These tags below are headings -->
+        <h1>My First Webpage</h1>
+        <h2>Elijah Hill</h2>
+    
+        
+        <!-- paragraph tags, one has an anchor tag -->
+        <div>
+            <img src="https://pbs.twimg.com/profile_images/1413640954142146562/ITMmgkAM_400x400.jpg">
+            <p>During quarantine, I was coming up on many things to do in order to boost up my hobby.</p>
+        </div>
+        <h3>Things I like</h3>
+        <ul>
+            <li>Video Editing</li>
+            <li>Blender 3D Making</li>
+            <li>Graphic Illustrating (Mostly on Adobe Illustrator 2021)</li>
+        </ul>
+    </body>
+</html>
